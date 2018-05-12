@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41421'
     url: http://www.gutenberg.org/2009/agents/41421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41910#The-Rise-of-the-Mediaeval-Churchfrom-The-First-to-the-The-Thirteen-Century
 gutenberg_issued: '2013-01-24'
 gutenberg_type: Text
 identifiers:
