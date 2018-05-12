@@ -1,0 +1,29 @@
+_repo: The-Rise-of-the-Mediaeval-Churchfrom-The-First-to-the-The-Thirteen-Century_41910
+_version: 0.1.0
+alternative_title: "The Rise of the Mediaeval Church\r\nAnd Its Influence on the Civilization\
+  \ of Western Europe from the 1st to the 13th Century"
+covers:
+- cover_type: archival
+  image_path: 41910-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Flick, Alexander Clarence
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '41421'
+    url: http://www.gutenberg.org/2009/agents/41421
+description: ''
+gutenberg_issued: '2013-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcc 'BR'
+title: "The Rise of the Mediaeval Church\r\nAnd Its Influence on the Civilization\
+  \ of Western Europe from the First to the Thirteenth Century"
+url: http://www.gutenberg.org/ebooks/41910
